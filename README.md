@@ -1,3 +1,6 @@
+## About Me
+Hey! My name is Muhammad Inam Ullah and I am a student of software Engineering at Fast Islamabad.
+
 ## 🛠 Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -12,6 +15,11 @@
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logoColor=white)
 ![Squarespace](https://img.shields.io/badge/Squarespace-000000?style=for-the-badge&logo=squarespace&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+## 🌐 Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/inam-ullah-5551a8311/)
+- 📧 Email: [i233058@isb.nu.edu.pk](mailto:i233058@isb.nu.edu.pk)
 
 
 <!--
