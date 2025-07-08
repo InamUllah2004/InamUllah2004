@@ -21,6 +21,14 @@ Hey! My name is Muhammad Inam Ullah and I am a student of software Engineering a
 - 🔗 [LinkedIn](https://www.linkedin.com/in/inam-ullah-5551a8311/)
 - 📧 Email: [i233058@isb.nu.edu.pk](mailto:i233058@isb.nu.edu.pk)
 
+## 📊 GitHub Stats
+
+![Inam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=InamUllah2004&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=InamUllah2004&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=InamUllah2004&theme=radical)
+
 
 <!--
 **InamUllah2004/InamUllah2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
